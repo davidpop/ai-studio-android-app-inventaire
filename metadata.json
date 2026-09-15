@@ -1,0 +1,7 @@
+{
+  "name": "Inventaire",
+  "description": "Gestion d’inventaire personnel complète avec objets, boîtes, localisations hiérarchiques, tags et photos CameraX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
